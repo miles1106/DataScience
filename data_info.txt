@@ -1,7 +1,0 @@
-Goal:
-
-this data set contains hourly Minneapolis-St Paul, MN traffic volume for westbound I-94, it also includes weather and holiday features from 2012-2018.
-Your company wants to define a model to predict the traffic volume, given the current period of the year, and weather conditions, because this impacts
-the delivery time in the company. Being able to predict when the traffic volume is above 1.5 std from the mean volume, would allow the company to save
-1000 dollars per correct prediction, versus a cost of 100 dollar per false prediction.
-
